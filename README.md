@@ -10,7 +10,8 @@ En este proyecto utilizo una base de datos llamada "Companies" formada por ofici
 
 Además, trabajo con GeoDataFrames y utilizo la librería [Folium](https://python-visualization.github.io/folium/) para visualizar las conclusiones obtenidas en un mapa.
 
-¿Qué conclusiones?¿Con qué nos hemos ido guiando?Bien, a la hora de ver dónde situar la oficina de la empresa había que atender una serie de una requisitos, o parte de ellos, para que la plantilla se sintiese a gusto. El listado requisitos es el siguiente (destacando en negrita los elegidos para el desarrollo del proyecto):
+## ¿Qué conclusiones?¿Con qué nos hemos ido guiando?
+Bien, a la hora de ver dónde situar la oficina de la empresa había que atender una serie de una requisitos, o parte de ellos, para que la plantilla se sintiese a gusto. El listado requisitos es el siguiente (destacando en negrita los elegidos para el desarrollo del proyecto):
 
 - A los diseñadores les gusta ir a charlas de diseño y compartir conocimientos.Debe haber algunas empresas cercanas que también diseñen.
 
@@ -31,3 +32,5 @@ Además, trabajo con GeoDataFrames y utilizo la librería [Folium](https://pytho
 - **El perro de la oficina: "Pepe" necesita un peluquero todos los meses. Asegúrese de que haya uno no demasiado lejos.**
 
 
+## Por favor, para poder ver bien el mapa final y el trabajo realizado con la librería Folium, abre el .ipynb correspondiente, el número 4, desde aquí:
+**[Ver Jupyter Notebook: "4. Folium"](https://nbviewer.jupyter.org/github/AnaMA96/mongo-project/blob/main/4.%20%20%20Folium.ipynb)**
