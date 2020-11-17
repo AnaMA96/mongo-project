@@ -32,5 +32,5 @@ Bien, a la hora de ver dónde situar la oficina de la empresa había que atender
 - **El perro de la oficina: "Pepe" necesita un peluquero todos los meses. Asegúrese de que haya uno no demasiado lejos.**
 
 
-## Por favor, para poder ver bien el mapa final y el trabajo realizado con la librería Folium, abre el .ipynb correspondiente, el número 4, desde aquí:
+## Por favor, para poder ver bien el mapa final y el trabajo realizado con la librería Folium, abre el .ipynb correspondiente "4.  Folium" desde aquí:
 **[Ver Jupyter Notebook: "4. Folium"](https://nbviewer.jupyter.org/github/AnaMA96/mongo-project/blob/main/4.%20%20%20Folium.ipynb)**
